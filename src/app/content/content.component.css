@@ -1,0 +1,11 @@
+* {
+  font-family: "Roboto", serif;
+  text-align: justify;
+  font-size: medium;
+  background-color: lightblue;
+}
+
+.display-picture {
+  width: 80%;
+  border-radius: 50%;
+}
