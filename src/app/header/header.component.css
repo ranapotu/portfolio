@@ -3,6 +3,8 @@
   font-family: "Stint Ultra Condensed", cursive;
 }
 
-span {
+a {
   padding-right: 1rem;
+  text-decoration: none;
+  color: aliceblue;
 }
