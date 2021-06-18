@@ -8,3 +8,8 @@ a {
   text-decoration: none;
   color: aliceblue;
 }
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
