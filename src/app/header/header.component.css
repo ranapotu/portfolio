@@ -1,6 +1,7 @@
 .navbar {
   justify-content: space-between;
   font-family: "Stint Ultra Condensed", cursive;
+  position: fixed;
 }
 
 a {
