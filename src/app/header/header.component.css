@@ -1,16 +1,25 @@
 .navbar {
   justify-content: space-between;
   font-family: "Stint Ultra Condensed", cursive;
-  position: fixed;
+  position: sticky;
+  top: 0;
 }
 
 a {
   padding-right: 1rem;
   text-decoration: none;
-  color: aliceblue;
+  color: black;
 }
 
 a:hover {
   text-decoration: underline;
   text-decoration-color: red;
+}
+
+.logo {
+  padding-left: 40px;
+}
+
+.nav-list {
+  padding-right: 50px;
 }

@@ -1,11 +1,16 @@
 * {
-    font-family: "Roboto", serif;
-    text-align: justify;
-    font-size: medium;
-    background-color: dodgerblue;
-  }
-  
-  .display-picture {
-    width: 80%;
-    border-radius: 50%;
-  }
+  font-family: "Roboto", serif;
+  text-align: justify;
+  font-size: medium;
+  background-color: dodgerblue;
+}
+
+.display-picture {
+  width: 80%;
+  border-radius: 10%;
+  padding: 20px;
+}
+
+.row {
+  padding-top: 30px;
+}

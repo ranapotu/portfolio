@@ -1,5 +1,8 @@
-* {
-  background-color: #6ac2d0;
+.content {
   text-align: justify;
-  font-size: 22px;
+  margin: 100px;
+}
+
+.mat-icon {
+  vertical-align: middle;
 }
