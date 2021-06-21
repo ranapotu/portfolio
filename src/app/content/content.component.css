@@ -1,6 +1,9 @@
 .content {
   text-align: justify;
-  margin-top: 2rem;
+  margin-top: 8rem;
+  font-family: "EB Garamond", serif;
+  font-size: large;
+  letter-spacing: 1px;
 }
 
 mat-icon {
@@ -12,9 +15,9 @@ mat-icon {
 
 .p-img {
   width: 100%;
-  height: auto;
+  height: 90%;
   border-radius: 50px;
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 
 .image {
@@ -24,5 +27,5 @@ mat-icon {
   float: left;
   margin: 3px;
   padding: 3px;
-  margin-left: 0.5rem;
+  margin-left: 2rem;
 }
