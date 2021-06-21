@@ -23,3 +23,6 @@ a:hover {
 .nav-list {
   padding-right: 50px;
 }
+mat-icon {
+  vertical-align: middle;
+}

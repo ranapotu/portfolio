@@ -1,8 +1,28 @@
 .content {
   text-align: justify;
-  margin: 100px;
+  margin-top: 2rem;
 }
 
-.mat-icon {
+mat-icon {
   vertical-align: middle;
+}
+.btn {
+  margin-top: 4rem;
+}
+
+.p-img {
+  width: 100%;
+  height: auto;
+  border-radius: 50px;
+  margin-top: 2rem;
+}
+
+.image {
+  width: 300px;
+  min-height: 300px;
+  max-height: auto;
+  float: left;
+  margin: 3px;
+  padding: 3px;
+  margin-left: 0.5rem;
 }

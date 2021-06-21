@@ -8,12 +8,16 @@ import { HeaderComponent } from './header/header.component';
 import { MaterialModule } from './material/material.module';
 import { ContentComponent } from './content/content.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { BootHeaderComponent } from './boot-header/boot-header.component';
+import { DropdownDirective } from './dropdown.directive';
 @NgModule({
   declarations: [
     AppComponent,
     ContentComponent,
     HeaderComponent,
     routingComponents,
+    BootHeaderComponent,
+    DropdownDirective,
   ],
   imports: [
     BrowserModule,
