@@ -10,6 +10,7 @@ import { ContentComponent } from './content/content.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { BootHeaderComponent } from './boot-header/boot-header.component';
 import { DropdownDirective } from './dropdown.directive';
+import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,6 +19,7 @@ import { DropdownDirective } from './dropdown.directive';
     routingComponents,
     BootHeaderComponent,
     DropdownDirective,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,

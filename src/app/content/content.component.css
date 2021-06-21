@@ -21,8 +21,8 @@ mat-icon {
 }
 
 .image {
-  width: 300px;
-  min-height: 300px;
+  width: 320px;
+  min-height: 250px;
   max-height: auto;
   float: left;
   margin: 3px;

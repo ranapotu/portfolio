@@ -1,0 +1,13 @@
+* {
+  background-color: gray;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding: 1rem;
+}
