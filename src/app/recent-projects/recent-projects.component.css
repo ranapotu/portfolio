@@ -1,3 +1,18 @@
-p {
-  padding-top: 100px;
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-family: "EB Garamond", serif;
+  font-size: x-large;
+}
+
+mat-card {
+  margin: 2rem;
 }
