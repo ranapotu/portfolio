@@ -1,0 +1,13 @@
+mat-card {
+  padding: 20px;
+  width: 350px;
+  height: 70px;
+  margin: 20px;
+}
+
+.skills-text {
+  text-align: center;
+  font-weight: 700;
+  font-family: "EB Garamond", serif;
+  font-size: x-large;
+}

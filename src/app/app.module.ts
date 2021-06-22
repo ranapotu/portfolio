@@ -12,6 +12,7 @@ import { BootHeaderComponent } from './boot-header/boot-header.component';
 import { DropdownDirective } from './dropdown.directive';
 import { FooterComponent } from './footer/footer.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
+import { SkillsComponent } from './skills/skills.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,6 +23,7 @@ import { PageNotFoundComponent } from './page-not-found/page-not-found.component
     DropdownDirective,
     FooterComponent,
     PageNotFoundComponent,
+    SkillsComponent,
   ],
   imports: [
     BrowserModule,
