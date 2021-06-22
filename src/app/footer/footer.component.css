@@ -1,5 +1,6 @@
 * {
   background-color: gray;
+  padding: 4px;
 }
 
 h1 {
@@ -10,4 +11,8 @@ li {
   list-style: none;
   float: left;
   padding: 1rem;
+}
+
+.line {
+  margin-top: -20px;
 }
