@@ -2,15 +2,25 @@
   font-family: "EB Garamond", serif;
   text-align: justify;
   font-size: medium;
-  background-color: hsl(266, 100%, 50%);
 }
 
 .display-picture {
   width: 80%;
   border-radius: 10%;
-  padding: 20px;
+  margin: 20px;
+  margin-left: 4rem;
 }
 
 .row {
   padding-top: 30px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: x-large;
+}
+
+.content {
+  margin-top: 50px;
 }
