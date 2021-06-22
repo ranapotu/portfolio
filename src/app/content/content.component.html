@@ -19,7 +19,12 @@
       </p>
     </div>
   </div>
-  <button class="btn btn-primary" (click)="openDialog()">
-    Contact Me <mat-icon class="send-icon">send</mat-icon>
-  </button>
+  <div class="position-relative button">
+    <button
+      class="btn btn-primary position-absolute bottom-0 end-0"
+      (click)="openDialog()"
+    >
+      Contact Me <mat-icon class="send-icon">send</mat-icon>
+    </button>
+  </div>
 </div>

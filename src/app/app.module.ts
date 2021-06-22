@@ -11,6 +11,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { BootHeaderComponent } from './boot-header/boot-header.component';
 import { DropdownDirective } from './dropdown.directive';
 import { FooterComponent } from './footer/footer.component';
+import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,6 +21,7 @@ import { FooterComponent } from './footer/footer.component';
     BootHeaderComponent,
     DropdownDirective,
     FooterComponent,
+    PageNotFoundComponent,
   ],
   imports: [
     BrowserModule,

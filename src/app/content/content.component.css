@@ -9,9 +9,6 @@
 mat-icon {
   vertical-align: middle;
 }
-.btn {
-  margin-top: 4rem;
-}
 
 .p-img {
   width: 100%;
@@ -28,4 +25,8 @@ mat-icon {
   margin: 3px;
   padding: 3px;
   margin-left: 2rem;
+}
+.button {
+  padding: 20px;
+  margin-bottom: 20px;
 }
