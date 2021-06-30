@@ -1,7 +1,16 @@
 .navbar {
-  font-family: "Stint Ultra Condensed", cursive;
+  font-family: "EB Garamond", serif;
 }
 
 .contact {
   cursor: pointer;
+}
+
+.navbar-nav li {
+  font-weight: 700;
+}
+
+.navbar-nav li :hover {
+  text-decoration: underline;
+  text-decoration-color: chocolate;
 }

@@ -16,3 +16,8 @@
 mat-card {
   margin: 2rem;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
